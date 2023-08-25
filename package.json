@@ -1,0 +1,14 @@
+{
+  "name": "servidor-express",
+  "version": "1.0.0",
+  "description": "Curso express-node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Rivera <ricrivter@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
